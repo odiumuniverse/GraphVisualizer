@@ -1,5 +1,4 @@
 [![Build](https://github.com/odiumuniverse/GraphVisualizer/actions/workflows/gradle-build.yml/badge.svg)](https://github.com/odiumuniverse/GraphVisualizer/actions/workflows/gradle-build.yml)
-[![Measure coverage](https://github.com/odiumuniverse/GraphVisualizer/actions/workflows/coverage.yml/badge.svg?branch=main)](https://github.com/odiumuniverse/GraphVisualizer/actions/workflows/coverage.yml)
 [![Test](https://github.com/odiumuniverse/GraphVisualizer/actions/workflows/gradle-test.yml/badge.svg)](https://github.com/odiumuniverse/GraphVisualizer/actions/workflows/gradle-test.yml)
 # Graph Visualizer
 ## About
